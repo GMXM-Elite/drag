@@ -3,9 +3,10 @@
  */
 function drag(){
     var ojb=document.getElementById(id);
+    var disX=0;
+    var disY=0;
     obj.onmousedown=function(){
-        for (var i=0;i<10;i++){
-
-        }
+        var i=0;
     }
+
 }
